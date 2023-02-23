@@ -52,10 +52,7 @@
         $ nodejs --version
 
 # para acessar admin
-    localhost:5000/admin
-    user = gabriel
-    email = gabriel@votionn.com.br
-    senha = ma90797
+
 
     # Course
         views get_dealer_details falta mostrar as reviews na tela, já ta pegado, só mostrar
