@@ -56,3 +56,7 @@
 
     # Course
         views get_dealer_details falta mostrar as reviews na tela, já ta pegado, só mostrar
+
+# user
+    gabriel
+    ma
